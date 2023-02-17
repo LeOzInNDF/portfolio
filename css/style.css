@@ -512,7 +512,13 @@ section{
         display: initial;
     }
 
+    .git{
+        max-width: 50rem;
+        max-height: 50rem;
+    }
 }
+
+
 
 @media (max-width:500px){
 
