@@ -513,8 +513,8 @@ section{
     }
 
     .git{
-        max-width: 50rem;
-        max-height: 50rem;
+        width: 50rem;
+        height: 50rem;
     }
 }
 
@@ -532,7 +532,7 @@ section{
     }
 
     .git{
-        max-width: 50rem;
-        max-height: 50rem;
+        width: 50rem;
+        height: 50rem;
     }
 }
