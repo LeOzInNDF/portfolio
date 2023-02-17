@@ -525,4 +525,8 @@ section{
         border-right: 0;
     }
 
+    .img{
+        max-width: 50rem;
+        max-height: 50rem;
+    }
 }
